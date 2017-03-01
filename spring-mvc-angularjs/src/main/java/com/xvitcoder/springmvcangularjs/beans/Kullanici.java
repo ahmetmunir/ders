@@ -7,9 +7,6 @@ public class Kullanici {
     private int birimId;
     
     
-    
-    
-    
     public Kullanici() { }
 
     public Kullanici(int id, String kullaniciAdi, String sifre) {
